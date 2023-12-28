@@ -1,1 +1,3 @@
-console.log("Hello Node js");
+const calc = require("./calc");
+
+console.log(calc);
